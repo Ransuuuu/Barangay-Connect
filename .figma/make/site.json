@@ -1,0 +1,10 @@
+{
+  "description": "Streamline community issue reporting and management by connecting residents with barangay officials for efficient concern tracking and resolution.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
